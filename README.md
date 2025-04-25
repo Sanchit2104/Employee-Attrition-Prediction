@@ -36,6 +36,6 @@ Provide HR teams with actionable insights to retain employees and reduce turnove
 # Conclusion
 Proactive Retention Strategy: The model enables HR teams to identify at-risk employees early, helping them take targeted actions to improve retention and reduce turnover-related costs.
 
-Data-Driven Insights: By analyzing key factors like job satisfaction, tenure, and performance, the project delivers valuable insights into what drives attrition within the organization.
+Data-Driven Insights: By analyzing key factors the project delivers valuable insights into what drives attrition within the organization.
 
 Scalable and Actionable Solution: With predictive modeling in Python and visual dashboards in Tableau, the solution is both scalable and easy for HR leadership to use in making informed, strategic decisions
